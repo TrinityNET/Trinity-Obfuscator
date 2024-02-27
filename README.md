@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=U6YYeCplJ4k&t=30s&ab_channel=NoIndexingMe
 
 Developed this project around 2018/2019.
 
-This hasn't been optimised, and it hasn't been made to contributions on GitHub, I am just uploading old projects online that I found on my old computers.
+This hasn't been optimised, and it hasn't been uploaded for contributions on GitHub, I am just storing old projects online that I found on my old computers.
