@@ -14,3 +14,5 @@ Uses DNLib and modified ConfuserEx. The obfuscator engine in this video is the l
 https://www.youtube.com/watch?v=U6YYeCplJ4k&t=30s&ab_channel=NoIndexingMe
 
 Developed this project around 2018/2019.
+
+This hasn't been optimised, and it hasn't been made to contributions on GitHub, I am just uploading old projects online that I found on my old computers.
