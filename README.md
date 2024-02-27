@@ -10,3 +10,5 @@ Developed in C#, authentication written in PHP on the server. Uses a private ver
 Some client-side obfuscation is available free to the user, such as the native packer and string encryptor.
 
 Uses DNLib and modified ConfuserEx.
+
+https://www.youtube.com/watch?v=U6YYeCplJ4k&t=30s&ab_channel=NoIndexingMe
